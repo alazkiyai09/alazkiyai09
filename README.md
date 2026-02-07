@@ -3,8 +3,8 @@
 # Hi there, I'm Ahmad Whafa Azka Al Azkiyai! 👋
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=world)](https://alazkiyai09.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ahmad-whafa-azka-al-azkiyai)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:alazkiyai09@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-azka-alazkiyai-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/azka-alazkiyai/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:azka.alazkiyai@outlook.com)
 
 **Fraud Detection & AI Security Specialist**
 
@@ -123,9 +123,8 @@ graph TD
 
 ## Research & Publications
 
-### Conference Presentations
-- **"Federated Learning Security: Detecting Poisoning Attacks with Cryptographic Verification"** - IEEE Security Workshop 2024
-- **"Banking Trojan Detection Using Static API Sequence Analysis"** - MalCon 2024
+### Published Paper
+- **"Monitoring Financial Stability Based on Prediction of Cryptocurrencies Price Using Intelligent Algorithm"** - ICoDSA 2020 (with S. Saadah)
 
 ### Open Source Contributions
 - Active contributor to federated learning security research
@@ -138,8 +137,8 @@ graph TD
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=world)](https://alazkiyai09.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ahmad-whafa-azka-al-azkiyai)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:alazkiyai09@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-azka-alazkiyai-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/azka-alazkiyai/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:azka.alazkiyai@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/alazkiyai09)
 
 </div>
