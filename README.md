@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a **Machine Learning Engineer** and **Security Researcher** with **3+ years of experience** in banking fraud detection systems. I specialize in:
+I'm a **Machine Learning Engineer** and **Security Researcher** with **4+ years of experience** in banking fraud detection systems. I specialize in:
 
 - 🔒 **AI Security**: Federated Learning Security, Adversarial Robustness
 - 🏦 **Fraud Detection**: Banking fraud systems, transaction analysis
@@ -55,8 +55,8 @@ I'm passionate about building **secure, privacy-preserving AI systems** that pro
 | [**SignGuard**](https://github.com/alazkiyai09/signguard) | ECDSA-based cryptographic verification for federated learning | PyTorch, ECDSA, Python | ![Stars](https://img.shields.io/github/stars/alazkiyai09/signguard?style=flat) |
 | [**Fraudware Analyzer**](https://github.com/alazkiyai09/fraudware-analyzer) | Banking trojan detection through static analysis | Python, YARA, ML | ![Stars](https://img.shields.io/github/stars/alazkiyai09/fraudware-analyzer?style=flat) |
 | [**ML Engineer Portfolio**](https://github.com/alazkiyai09/Machine-Learning-Engineer-Project) | 30-day machine learning journey | Python, TensorFlow | ![Stars](https://img.shields.io/github/stars/alazkiyai09/Machine-Learning-Engineer-Project?style=flat) |
-| [**Indonesia Economic Forecasting**](https://github.com/alazkiyai09/Predictive-Analytics-for-Indonesia-s-Economic-Forecasting) | Deep learning for economic prediction | LSTM, TensorFlow | ![Stars](https://img.shields.io/github/stars/alazkiyai09/Predictive-Analytics-for-Indonesia-s-Economic-Forecasting?style=flat) |
-| [**Federated Learning Security Portfolio**](https://github.com/alazkiyai09/federated-learning-security-portfolio) | Privacy-preserving ML research | PySyft, PyTorch | ![Stars](https://img.shields.io/github/stars/alazkiyai09/federated-learning-security-portfolio?style=flat) |
+|  [**IDX AI Trading System**](https://github.com/alazkiyai09/idx-trading-system) |  AI-assisted IDX trading and backtesting |  PyTorch, TA-Lib | ![Stars](https://img.shields.io/github/stars/alazkiyai09/idx-trading-system?style=flat) |
+|  [**FL Security Ecosystem**](https://github.com/alazkiyai09/federated-learning-core) |  Modular FL security research ecosystem | PySyft, PyTorch | ![Stars](https://img.shields.io/github/stars/alazkiyai09/federated-learning-core?style=flat) |
 | [**Portfolio Website**](https://github.com/alazkiyai09/alazkiyai09.github.io) | Personal portfolio built with Astro | Astro, Tailwind CSS | ![Stars](https://img.shields.io/github/stars/alazkiyai09/alazkiyai09.github.io?style=flat) |
 
 ---
